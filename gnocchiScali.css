@@ -1,0 +1,10 @@
+body { background-color:lightgreen; }
+h2{align=center}
+h1{text-align:center;color:darkgreen}
+table{ width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 8px; }
+ol{text-align:left;margin-left: 20%;}
+caption{text-align:center}
+ul{text-align:left;margin-left: 20%;}
+blockquote{text-align:center}
+
